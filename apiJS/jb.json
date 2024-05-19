@@ -1,0 +1,99 @@
+{
+    "apps": [
+        {
+            "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
+            "name": "Dopamine",
+            "version": "2.1.4",
+            "description": "Bẻ khóa arm64e không root cho iOS 15.0 - 16.5.1 (arm64e) và iOS 15.0 - 16.6.1 (arm64). Thông tin chi tiết sẽ sớm được cập nhật tại đây.",
+            "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.1.4/Dopamine.tipa"
+        },
+
+        {
+            "iconURL": "https://ellekit.space/dopamine/assets/icon.png",
+            "name": "Dopamine Tàu",
+            "version": "2.1.4",
+            "description": "Bẻ khóa arm64e không root cho iOS 15.0 - 16.5.1 (arm64e) và iOS 15.0 - 16.6.1 (arm64). Thông tin chi tiết sẽ sớm được cập nhật tại đây.",
+            "downloadURL": "https://github.com/w2599/Dopamine/releases/download/2.1.4/Dopamine_blacklist_2.1.4_1715084614.tipa"
+        },
+        
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/BootStrapBeta.JPG",
+            "name": "Bootstrap",
+            "version": "1.2.1",
+            "description": "Một bootstrap đầy đủ tính năng dành cho ios14.0-17.0, A8-A17,M1+M2. (hiện đang được thử nghiệm trên ios15.0~ios17.0)",
+            "downloadURL": "https://github.com/roothide/Bootstrap/releases/download/1.2.1/Bootstrap.tipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/hrtowii/Serotonin/A12restart/artwork/serotonin-precomposed.png",
+            "name": "Serotonin",
+            "version": "1.2.1",
+            "description": "(Not/Semi)-Jailbreak dùng với Bootstrap cho A12+",
+            "downloadURL": "https://github.com/mineek/Serotonin/releases/download/1.2.1/Serotonin.tipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/WeansHHN/troll/main/icon/taurine.jpg",
+            "name": "Taurine",
+            "version": "1.1.7-3",
+            "description": "All A8-A14 devices on iOS 14.0-14.8.1",
+            "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/ulc.png",
+            "name": "Unc0ver Laucher",
+            "version": "NULL",
+            "description": "Trình khởi chạy cho Unc0ver.",
+            "downloadURL": "https://ipa.cypwn.xyz/ipas/Unc0verLauncher_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://panda-helper.org/wp-content/uploads/2023/10/uncover-unc0ver-Icon-app-200px-120x120.png",
+            "name": "Unc0ver",
+            "version": "8.0.2",
+            "description": "Công cụ bẻ khóa tiên tiến nhất, iOS 11.0 - 14.8",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/HackStoreIPA/unc0ver_Release_8.0.2.ipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/xina.png",
+            "name": "XinaA15",
+            "version": "2.1.5.2",
+            "description": "Bản beta công khai iOS 15.0-15.4.1, bẻ khóa bán không dây",
+            "downloadURL": "https://github.com/NotDarkn/XinaA15/releases/download/2.1.5.2/XinaA12.2.1.5.2.ipa"
+        },
+
+        {
+            "iconURL": "NULL",
+            "name": "Meobrek2",
+            "version": "1.1.4",
+            "description": "Bản Jailbreak Rootless meowbrek2, hỗ trợ Jailbreak meo meo trên iOS 15.0 – iOS 15.7.6 cho A9 – A11 (iPhone 6S - iPhone X). Tuy nhiên, bạn cần thiết lập jailbreak Rootless bằng Palera1n để jailbreak lại bằng meo.",
+            "downloadURL": "https://github.com/WeansHHN/troll/releases/download/Hackstore2/meowbrek2_1.1.4_TS.tipa"
+        },
+
+        {
+            "iconURL": "https://nekojb.hhls.xyz/nekoJB.jpg",
+            "name": "NekoJB",
+            "version": "0.1.0 Beta 5",
+            "description": "Jailbreak Rootless. Hỗ trợ tất cả các thiết bị arm64 chạy iOS 15.0 - 15.8 (iPhone 6S - iPhone X) đều được hỗ trợ. Tuy nhiên, bạn cần thiết lập jailbreak Rootless bằng Palera1n để jailbreak lại bằng meo.",
+            "downloadURL": "https://nekojb.hhls.xyz/nekojb-0.1.0-beta5.ipa"
+        },
+      
+        {
+            "iconURL": "https://raw.githubusercontent.com/pwned4ever/Freya15/main/FREYA15/Assets.xcassets/AppIcon.appiconset/freya12_1024x1024.jpg",
+            "name": "Freya15",
+            "version": "1.0.9-i",
+            "description": "Jailbreak không cần root iOS <=15.1 cho một số thiết bị và một số phiên bản. thêm phần bù?",
+            "downloadURL": "https://github.com/pwned4ever/Freya15/releases/download/v1.0.9-i/Freya15.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/hackstore/blob/main/apiJS/Image/IMG_3716.jpeg",
+            "name": "Def1nit3lyN0tAJa1lbr3akTool",
+            "version": "1.0.1",
+            "description": "Hỗ trợ: \n* Jailbreak Rootless Arm64 từ 16.0 - 16.6.1. \n* A10, A11, v.v.",
+            "downloadURL": "https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool/releases/tag/v1.0.1"
+        }
+    ]
+}
